@@ -1,10 +1,1 @@
-# Credentials - never commit these
 credentials.json
-*.json
-.env
-
-# Python
-__pycache__/
-*.pyc
-venv/
-.venv/
