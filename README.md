@@ -1,6 +1,6 @@
 # 📡 IoT Telemetry Streaming to Google Sheets
 
-A Python project that streams live IoT telemetry data into **Google Sheets** in near real time. The script authenticates with the Google Sheets API and appends a timestamped row of sensor readings roughly every 5 seconds, turning a spreadsheet into a lightweight live data log that can feed pivot tables, charts and dashboards.
+A Python project that streams live IoT telemetry data into **Google Sheets** in near real time. The script authenticates with the Google Sheets API and appends a timestamped row of sensor readings roughly every 5 minutes, turning a spreadsheet into a lightweight live data log that can feed pivot tables, charts and dashboards.
 
 ---
 
