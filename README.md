@@ -44,9 +44,9 @@ Running the script confirms the connection to Google Sheets, then logs every row
 C:\Users\Guest PC\Desktop\IoT Project>py stream_to_sheets.py
 Successfully connected to Google Sheets! Pushing telemetry data...
 [2026-10-22 07:53:54] Appended row: [21.33, 52.75, 'Active', '2026-10-22 07:53:54']
-[2026-10-22 07:54:00] Appended row: [22.03, 45.0, 'Active', '2026-10-22 07:54:00']
-[2026-10-22 07:54:05] Appended row: [24.81, 69.28, 'Active', '2026-10-22 07:54:05']
-[2026-10-22 07:54:11] Appended row: [27.66, 57.69, 'Active', '2026-10-22 07:54:11']
+[2026-10-22 07:54:00] Appended row: [22.03, 45.0, 'Active', '2026-10-22 07:58:55']
+[2026-10-22 07:54:05] Appended row: [24.81, 69.28, 'Active', '2026-10-22 07:63:57']
+[2026-10-22 07:54:11] Appended row: [27.66, 57.69, 'Active', '2026-10-22 07:68:59']
 ...
 ```
 
