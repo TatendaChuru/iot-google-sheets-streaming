@@ -139,7 +139,7 @@ Each appended row contains four fields:
 
 ## 💼 Resume Highlights
 
-- Built a Python script that streams live IoT telemetry into Google Sheets via the Sheets API, appending timestamped sensor readings every ~5 seconds.
+- Built a Python script that streams live IoT telemetry into Google Sheets via the Sheets API, appending timestamped sensor readings every ~5 minutes.
 - Implemented authenticated cloud API connections using a Google Cloud service account, with console logging for real-time monitoring.
 - Turned Google Sheets into a lightweight real-time data sink, enabling downstream analysis with pivot tables and dashboards without a dedicated database.
 
@@ -147,4 +147,4 @@ Each appended row contains four fields:
 
 ## 📄 License
 
-This project is licensed under the MIT License. Add a `LICENSE` file to the repository root.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
