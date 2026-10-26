@@ -30,7 +30,7 @@ IoT devices generate continuous streams of readings, but they need somewhere to 
 flowchart TD
     A["IoT Telemetry Source<br/>(sensor readings + device status)"] --> B["Python Script<br/>stream_to_sheets.py"]
     B -->|"Authenticated Google Sheets API connection"| C["Google Sheets"]
-    C -->|"New timestamped row every ~5 seconds"| D["Live Telemetry Log"]
+    C -->|"New timestamped row every ~5 minutes"| D["Live Telemetry Log"]
     D --> E["Pivot Tables / Charts / Dashboards"]
 ```
 
