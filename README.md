@@ -65,7 +65,7 @@ Each appended row contains four fields:
 | 3 | `Active` | Device status |
 | 4 | `2026-10-22 07:53:54` | Timestamp of the reading |
 
-> ✏️ _Update the column descriptions to match your actual sensors._
+
 
 ---
 
