@@ -50,7 +50,6 @@ Successfully connected to Google Sheets! Pushing telemetry data...
 ...
 ```
 
-![IoT script streaming to Google Sheets](images/Script_to_GSheets.png)
 
 ---
 
