@@ -107,15 +107,15 @@ Each appended row contains four fields:
 
 ### Prerequisites
 - Python 3.8+
-- A Google Cloud project with the **Google Sheets API** enabled
+- A Google Cloud project with the *Google Sheets API* enabled
 - A service account with a downloaded credentials JSON file
 
 ### Setup
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/TatendaChuru/iot-google-sheets-streaming
-   ```
+   git clone [https://github.com/TatendaChuru/iot-google-sheets-streaming.git](https://github.com/TatendaChuru/iot-google-sheets-streaming.git)
+   cd iot-google-sheets-streaming
 
 2. **Install dependencies**
    ```bash
